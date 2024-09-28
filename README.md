@@ -1,6 +1,6 @@
 DeepLearning2024
 
-Topic: Study the YOLO for medical image segmentation. Present a concrete example case study.
+Topic: Study the YOLO for medical image segmentation. Case study: Lung cancer
 
 Member: 
 
